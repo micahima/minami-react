@@ -1,0 +1,33 @@
+.ui.image.logo {
+  width: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.ui.menu.menuRow{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.image.banner {
+  padding-top: 10px;
+  padding-bottom: 60px;
+}
+
+.ui.container.divider {
+  width: 500px;
+}
+
+.links {
+  padding-left: 120px;
+  padding-right: 120px;
+  margin-bottom: 80px;
+}
+
+.ui.grid.tourRow {
+  font-size: 12px;
+}
+
+.ui.grid.movieRow {
+  font-size: 16px;
+}
