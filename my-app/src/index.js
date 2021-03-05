@@ -149,9 +149,9 @@ class Videos extends React.Component {
 
 class FooterRow extends React.Component {
   render() {
-    const formatPadding = { marginTop: "20px", marginBottom: "10px" };
+    const formatPadding = { marginBottom: "10px", fontSize: "14px" };
     return (
-        <Grid.Row><Header as={"h3"} style={formatPadding}>MOVIE</Header></Grid.Row>
+        <Grid.Row><Header as={"h3"} style={formatPadding} color={"grey"}>© Water Reflection</Header></Grid.Row>
     );
   }
 }
